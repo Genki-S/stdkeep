@@ -49,6 +49,16 @@ In your `~/.zshrc` (assuming you downloaded this repository to `~/stdkeep`):
 source ~/stdkeep/stdkeep.zsh
 ```
 
+### Settings
+
+#### Directory for log files
+
+default: `${HOME}/.stdkeep`
+
+```
+__STDKEEP_LOG_DIR=DIRECTORY_OF_YOUR_CHOICE
+```
+
 ## TODOs
 
 This is in the very early stage of development.
