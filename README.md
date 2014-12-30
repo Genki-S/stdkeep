@@ -9,7 +9,7 @@ the outputs. Life is tough.
 
 Examples:
 
-- `$ rails route`
+- `$ rake route`
 - `$ curl SOME_API`
 
 ## What it does
